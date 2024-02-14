@@ -9,3 +9,8 @@ Although there are different numbers of knots available, this paper considers $K
  The R codes can be found at https://github.com/tbaghfalaki/Gauss-Kronrod-weight-and-node/blob/main/G_Kronrod_15.R. 
 #### Gauss-Kronrod quadrature (7 points)
  The R codes can be found at https://github.com/tbaghfalaki/Gauss-Kronrod-weight-and-node/blob/main/G_Kronrod_7.R. 
+
+
+ ###### Reference for Gauss-Kronrod quadrature
+ https://en.wikipedia.org/wiki/Gauss%E2%80%93Kronrod_quadrature_formula
+ 
