@@ -13,4 +13,6 @@ Although there are different numbers of knots available, here $K=15$ nodes is co
 
  ###### Reference for Gauss-Kronrod quadrature
  https://en.wikipedia.org/wiki/Gauss%E2%80%93Kronrod_quadrature_formula
- 
+ ###### Reference for other quadratures
+ https://rdrr.io/cran/statmod/man/gauss.quad.html
+
