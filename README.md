@@ -11,6 +11,12 @@ Although there are different numbers of knots available, here $K=15$ nodes is co
  The R codes can be found at https://github.com/tbaghfalaki/Gauss-Kronrod-weight-and-node/blob/main/G_Kronrod_7.R. 
 
 
+For integrating over a general real interval $`{\displaystyle [a,b]}`$, a change of interval can be applied to convert the problem to one of integrating over
+$`{\displaystyle [-1,1]}`$ as $`{\displaystyle x_{k,{\text{scaled}}}={\frac {x_{k}+1}{2}}(b-a)+a},`$ and
+$`{\displaystyle w_{k,{\text{scaled}}}=w_{k}{\frac {b-a}{2}}}.`$
+
+
+
  ###### Reference for Gauss-Kronrod quadrature
  https://en.wikipedia.org/wiki/Gauss%E2%80%93Kronrod_quadrature_formula
  ###### Reference for other quadratures
